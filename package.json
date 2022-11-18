@@ -1,0 +1,25 @@
+{
+  "name": "react-suspense-hooks",
+  "version": "0.1.0",
+  "description": "A hooks collection to implement react suspense ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cyberpolin/react-suspense-hooks.git"
+  },
+  "keywords": [
+    "react",
+    "react-native",
+    "suspense",
+    "react-suspense"
+  ],
+  "author": "cyberpolin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cyberpolin/react-suspense-hooks/issues"
+  },
+  "homepage": "https://github.com/cyberpolin/react-suspense-hooks#readme"
+}
